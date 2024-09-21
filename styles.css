@@ -373,7 +373,7 @@ body {
     left: 50%;
     transform: translateX(-50%);
     width: 90%;
-    font-size: 3vh;
+    font-size: 2vh;
     opacity: 0;
     animation: fadeIn 4s ease-in-out forwards;
     text-align: center;
